@@ -1,0 +1,1 @@
+Just a very basic .gitignore file to be used with boilr.

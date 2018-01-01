@@ -1,0 +1,24 @@
+{
+  "name": "boilr-gitignore",
+  "version": "0.1.0",
+  "description": "boilr template for a .gitignore file.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stefanwalther/boilr-gitignore.git"
+  },
+  "keywords": [
+    "boilr",
+    "boilr-template",
+    "gitignore",
+    "boilerplate",
+    "template",
+    "documentation",
+    "docs"
+  ],
+  "author": "Stefan Walther <swr.nixda@gmail.com> (http://qliksite.io)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/stefanwalther/boilr-gitignore/issues"
+  },
+  "homepage": "https://github.com/stefanwalther/boilr-gitignore#readme"
+}
