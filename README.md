@@ -7,6 +7,16 @@
 ## Purpose
 Just a very basic .gitignore file to be used with boilr.
 
+The following files are generated:
+
+```
+.
+└── .gitignore
+
+0 directories, 1 file
+
+```
+
 ## Installation
 Install [boilr](https://github.com/tmrts/boilr) first. 
 
@@ -66,6 +76,9 @@ $ boilr template list
 ## About
 
 ### Related projects
+Some related projects:
+
+ 
 
 ### Author
 **Stefan Walther**
