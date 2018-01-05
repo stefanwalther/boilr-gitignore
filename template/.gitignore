@@ -1,8 +1,18 @@
+# =========================
 # Project specific
+# =========================
 
+# =========================
 # IDEs
-.vscode
-.idea
+# =========================
 
+# IntelliJ / Webstorm
+.idea/
+
+# Visual Code
+.vscode/
+
+# =========================
 # node.js
-node_modules
+# =========================
+node_modules/
