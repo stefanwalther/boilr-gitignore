@@ -16,3 +16,4 @@
 # node.js
 # =========================
 node_modules/
+coverage/
