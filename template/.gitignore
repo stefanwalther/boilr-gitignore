@@ -27,8 +27,7 @@ coverage/
 node_modules/
 
 # =====================================
-# npm
+# npm & yarn & pnpm
 # =====================================
-package-lock.json
 npm-debug.log
 */.npm
