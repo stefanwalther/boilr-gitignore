@@ -1,4 +1,4 @@
 .
-`-- .gitignore
+└── .gitignore
 
-0 directories, 1 file
+1 directory, 1 file
