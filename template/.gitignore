@@ -3,6 +3,21 @@
 # =====================================
 coverage/
 
+
+# compiled output
+/dist
+
+# compiled output
+/dist
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+lerna-debug.log*
+
 # =====================================
 # IDEs
 # =====================================
@@ -18,8 +33,14 @@ coverage/
 # AWS User-specific
 **/.idea/**/aws.xml
 
-# Visual Code
-.vscode/
+# Visual Studio Code
+# Ignore everything in .vscode except specific files
+.vscode/*
+!.vscode/
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
 
 # =====================================
 # node.js
@@ -31,3 +52,6 @@ node_modules/
 # =====================================
 npm-debug.log
 */.npm
+
+# Sentry Config File
+.sentryclirc
