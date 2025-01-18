@@ -3,15 +3,12 @@
 # =====================================
 coverage/
 
-
 # compiled output
-/dist
-
-# compiled output
-/dist
+dist/
+build/
 
 # Logs
-logs
+logs/
 *.log
 npm-debug.log*
 yarn-debug.log*
@@ -53,5 +50,15 @@ node_modules/
 npm-debug.log
 */.npm
 
+# =====================================
+# OS specific stuff
+# =====================================
+
+# MacOs crap
+.DS_Store
+
+# =====================================
+# Other typical files in my coding environments
+# =====================================
 # Sentry Config File
 .sentryclirc
